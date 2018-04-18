@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RepCounter", "RepCounter\RepCounter.pyproj", "{71DB1D0C-A207-4E69-80A6-B88D095EF58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DB1D0C-A207-4E69-80A6-B88D095EF58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DB1D0C-A207-4E69-80A6-B88D095EF58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F150FA-65E5-4B62-834D-0D248E2EB213}
+	EndGlobalSection
+EndGlobal
