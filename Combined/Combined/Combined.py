@@ -83,10 +83,10 @@ while True:
     inputState = GPIO.input(18)
     potVal = mcp.read_adc(0)
     dc = float(potVal) / 1050 * 100
-    #print(dc)
+    print(dc)
     pwm.ChangeDutyCycle(dc)
     if  inputState == False:
         print('Button Pressed')
         time.sleep(0.2)
         dir_toggle()
-    #time.sleep(0.01)
+    time.sleep(0.05)
